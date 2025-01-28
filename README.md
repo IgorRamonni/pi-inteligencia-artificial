@@ -1,3 +1,9 @@
+# Entrega da funcionalidade com IA.
+Funcionalidade: A funcionalidade está presente na tela de cadastro do evento onde a IA é utilizada para geração da descrição do evento a partir do nome do evento, valor, horário e data. Podendo alterar a descrição após a geração dela.
+
+Para executar a API, é necessário inserir uma API de uma conta cadastrada na OPENAI que possua créditos.
+
+
 # IMPORTANTE: SOBRE A ENTREGA
 
 A entrega deverá ser realizada com a postagem da url do seu fork do repositório. No formulário que será disponibilizado, você deverá informar apenas a url do seu fork do projeto.
