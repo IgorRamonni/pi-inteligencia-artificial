@@ -1,8 +1,11 @@
 # Entrega da funcionalidade com IA.
 Funcionalidade: A funcionalidade está presente na tela de cadastro do evento onde a IA é utilizada para geração da descrição do evento a partir do nome do evento, valor, horário e data. Podendo alterar a descrição após a geração dela.
 
-Para executar a API, é necessário inserir uma API de uma conta cadastrada na OPENAI que possua créditos.
-
+#### Observações:
+- IA implementada no arquivo 'cadastroEvento.html". API KEY deve ser colocada no mesmo aquivo, no JavaScript.
+- Para executar a API, é necessário inserir uma API de uma conta cadastrada na OPENAI que possua créditos.
+- O prompt para geração das descrições é a seguinte: "Você agora é um Produtor de eventos. Quero que escreva uma descrição para o evento chamado "${nomeEvento}" que ocorrerá às ${horario} no dia ${dia} e que o valor seja ${valor}".
+- IA Utilizada: OPENAI - gpt-3.5-turbo (podendo dar upgrade para a gpt-4o)
 
 # IMPORTANTE: SOBRE A ENTREGA
 
